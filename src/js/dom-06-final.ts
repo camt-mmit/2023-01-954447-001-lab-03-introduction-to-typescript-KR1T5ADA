@@ -1,3 +1,3 @@
-import { createComponent } from "./input-component.js";
+import { createComponent } from './input-component.js';
 
 createComponent(document.body);
